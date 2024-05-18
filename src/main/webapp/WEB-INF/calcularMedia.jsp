@@ -41,6 +41,7 @@
 
 <script>
     function voltarParaNotas() {
+
         window.location.href = "index.html"; // Substitua "notas.html" pelo caminho correto da tela de inserção de notas
     }
 </script>
