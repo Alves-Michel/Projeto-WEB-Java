@@ -1,4 +1,4 @@
-# Projeto-WEB-Java
+# Projeto WEB Java
   O projeto consiste em uma aplicação web desenvolvida em Java, onde os usuários podem calcular a média de duas notas inseridas por eles. Ao acessar a página da aplicação, os usuários são recebidos com um formulário que solicita que eles insiram suas notas. Após preencherem as notas e clicarem em um botão de "calcular", a aplicação processa esses dados e exibe a média das duas notas na tela.
 
   Por trás dos panos, a lógica de negócios é implementada em Java para calcular a média das notas. Isso pode envolver a validação dos dados inseridos pelos usuários para garantir que sejam números válidos, o cálculo da média propriamente dita e a formatação adequada do resultado para exibição na página web.
